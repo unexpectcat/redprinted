@@ -1,0 +1,13 @@
+{
+  "itemGroup.redprinted": "Example Mod Tab",
+  "block.redprinted.example_block": "Example Block",
+  "item.redprinted.example_item": "Example Item",
+
+  "redprinted.configuration.title": "Redprinted Configs",
+  "redprinted.configuration.section.redprinted.common.toml": "Redprinted Configs",
+  "redprinted.configuration.section.redprinted.common.toml.title": "Redprinted Configs",
+  "redprinted.configuration.items": "Item List",
+  "redprinted.configuration.logDirtBlock": "Log Dirt Block",
+  "redprinted.configuration.magicNumberIntroduction": "Magic Number Text",
+  "redprinted.configuration.magicNumber": "Magic Number"
+}
